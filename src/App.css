@@ -185,15 +185,15 @@ blockquote footer:before {
 }
 .home-header img {
   max-width: 100px;
+  display: block;
 }
 .home-header .menu {
   background-color: #454545;
 }
-.home-header .menu h1 {
+.home-header h1 {
   color: #fff;
-  font-weight: 300;
-  padding: 60px 50px;
-  -webkit-text-stroke-width: 0px;
+  margin-left: 20px;
+  padding: 60px 0px;
 }
 .home-content {
   padding-top: 100px;
